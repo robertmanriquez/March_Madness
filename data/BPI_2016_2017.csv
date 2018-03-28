@@ -1,0 +1,352 @@
+BPI,TeamName
+20.4,Gonzaga
+20.3,Villanova
+19.4,North Carolina
+18.4,Kansas
+18.1,Florida
+17.8,Louisville
+17.7,Duke
+17.6,West Virginia
+17.5,Kentucky
+17.4,Oregon
+17.2,Virginia
+16.8,UCLA
+16.6,Saint Mary's
+16.1,Purdue
+15.7,Wichita State
+15.6,Michigan
+15.5,SMU
+15.1,Baylor
+15.0,Wisconsin
+14.8,Cincinnati
+14.7,Iowa State
+14.7,Arizona
+13.9,Notre Dame
+13.9,Florida State
+13.3,Butler
+12.4,Oklahoma State
+12.0,Creighton
+11.4,South Carolina
+10.8,Marquette
+10.7,Wake Forest
+10.7,Miami
+10.6,Indiana
+10.4,Xavier
+10.4,Rhode Island
+10.4,Syracuse
+10.2,Dayton
+10.2,Kansas State
+10.2,Vanderbilt
+10.0,Clemson
+9.9,Texas Tech
+9.8,Minnesota
+9.7,VCU
+9.7,Michigan State
+9.7,TCU
+9.6,Arkansas
+9.5,Middle Tennessee
+9.4,Northwestern
+9.2,Houston
+9.0,Nevada
+9.0,Vermont
+8.9,Maryland
+8.8,Virginia Tech
+8.4,Seton Hall
+8.3,Princeton
+8.3,Providence
+8.1,California
+7.8,USC
+7.8,Alabama
+7.7,Utah
+7.6,UNC Wilmington
+7.2,Georgetown
+7.2,Tennessee
+7.2,Illinois
+7.2,Illinois State
+7.0,UCF
+6.9,Ohio State
+6.7,UT Arlington
+6.5,Georgia
+6.4,Oklahoma
+6.4,Texas
+6.2,Pittsburgh
+6.2,Belmont
+6.1,Texas A&M
+6.1,Davidson
+6.1,Ole Miss
+6.1,East Tennessee State
+5.7,Monmouth
+5.4,Florida Gulf Coast
+5.4,Iowa
+5.4,BYU
+5.2,Bucknell
+5.2,Auburn
+5.1,St. Bonaventure
+5.0,Akron
+4.9,San Diego State
+4.9,Georgia Tech
+4.8,NC State
+4.5,Penn State
+4.5,Louisiana Tech
+4.5,Ohio
+4.5,UConn
+4.4,Colorado
+4.4,Charleston
+4.3,UNC Asheville
+4.2,Furman
+4.2,Richmond
+4.0,Saint Peter's
+3.9,Loyola (Chi)
+3.9,Mississippi State
+3.9,New Mexico State
+3.8,Oakland
+3.8,St. John's
+3.7,Boise State
+3.7,Winthrop
+3.5,Harvard
+3.5,Chattanooga
+3.4,CSU Bakersfield
+3.3,Fresno State
+3.2,Valparaiso
+2.9,Temple
+2.9,Towson
+2.9,Lehigh
+2.9,Toledo
+2.8,Louisiana
+2.8,Albany
+2.7,Memphis
+2.6,William & Mary
+2.6,Santa Clara
+2.5,San Francisco
+2.5,Nebraska
+2.5,Fort Wayne
+2.2,Old Dominion
+2.2,UC Irvine
+2.1,Buffalo
+2.1,Stanford
+2.1,UNC Greensboro
+2.0,Missouri State
+2.0,Troy
+1.9,Arkansas State
+1.9,New Mexico
+1.9,Colorado State
+1.8,Eastern Michigan
+1.7,La Salle
+1.7,Georgia State
+1.6,Weber State
+1.6,Yale
+1.5,Lipscomb
+1.5,George Mason
+1.5,Rutgers
+1.4,Kent State
+1.4,Mercer
+1.4,North Dakota
+1.3,North Carolina Central
+1.3,Gardner-Webb
+1.2,Iona
+1.2,Elon
+1.1,George Washington
+1.1,Siena
+1.1,Wofford
+1.0,Pennsylvania
+1.0,Northeastern
+1.0,Massachusetts
+0.7,Georgia Southern
+0.7,Wright State
+0.7,Ball State
+0.6,Marshall
+0.6,North Dakota State
+0.5,Boston College
+0.3,South Dakota
+0.2,Tulsa
+0.2,Western Michigan
+0.1,Utah State
+0.1,UAB
+0.0,Rice
+-0.0,Arizona State
+-0.1,New Hampshire
+-0.2,Evansville
+-0.2,Loyola Marymount
+-0.2,Northern Iowa
+-0.2,Northern Kentucky
+-0.2,Jacksonville State
+-0.2,Missouri
+-0.2,Green Bay
+-0.3,Omaha
+-0.3,Saint Joseph's
+-0.4,Hofstra
+-0.4,Samford
+-0.5,Southern Illinois
+-0.6,Boston University
+-0.7,Canisius
+-0.7,Eastern Washington
+-0.8,Tennessee State
+-0.8,Hawai'i
+-0.9,Washington
+-0.9,Texas Southern
+-0.9,Texas State
+-1.0,DePaul
+-1.0,South Dakota State
+-1.0,East Carolina
+-1.1,Wyoming
+-1.1,LSU
+-1.2,Indiana State
+-1.3,UMBC
+-1.3,Montana
+-1.4,Utah Valley
+-1.5,Morehead State
+-1.5,Murray State
+-1.6,Central Michigan
+-1.6,IUPUI
+-1.6,Northern Illinois
+-1.7,Fairfield
+-1.8,Portland St
+-1.9,Grand Canyon
+-1.9,Denver
+-1.9,Mt. St. Mary's
+-1.9,Liberty
+-1.9,Stony Brook
+-2.0,Long Beach State
+-2.1,Idaho
+-2.1,Rider
+-2.4,New Orleans
+-2.4,Columbia
+-2.4,Eastern Illinois
+-2.4,Navy
+-2.5,Fordham
+-2.6,Texas A&M-CC
+-2.7,Wagner
+-2.8,Coastal Carolina
+-2.8,Little Rock
+-2.9,Holy Cross
+-2.9,UC Davis
+-2.9,Western Kentucky
+-3.1,North Florida
+-3.1,San Jose State
+-3.1,Washington State
+-3.2,Tenn-Martin
+-3.3,Sam Houston State
+-3.4,Lamar
+-3.4,Duquesne
+-3.5,South Alabama
+-3.6,Drexel
+-3.6,SE Louisiana
+-3.6,Pacific
+-3.6,James Madison
+-3.7,South Carolina Upstate
+-3.8,UTEP
+-4.1,LIU Brooklyn
+-4.1,St. Francis (PA)
+-4.1,UNLV
+-4.1,Charlotte
+-4.2,Bradley
+-4.3,Oral Roberts
+-4.3,Houston Baptist
+-4.4,Bowling Green
+-4.4,UIC
+-4.4,Tennessee Tech
+-4.4,Fairleigh Dickinson
+-4.5,Cleveland State
+-4.5,Jacksonville
+-4.5,Montana State
+-4.6,Appalachian State
+-4.7,NJIT
+-4.7,Army
+-4.8,CS Fullerton
+-4.9,Loyola (MD)
+-4.9,Tulane
+-5.0,UMKC
+-5.0,Southeast Missouri State
+-5.0,UL Monroe
+-5.1,High Point
+-5.2,Kennesaw State
+-5.2,Stephen F. Austin
+-5.3,Campbell
+-5.3,Robert Morris
+-5.3,Cornell
+-5.4,Air Force
+-5.5,Brown
+-5.5,CS Northridge
+-5.7,Portland
+-5.7,Eastern Kentucky
+-5.8,Niagara
+-5.8,Colgate
+-5.9,Northern Colorado
+-5.9,San Diego
+-6.0,UMass Lowell
+-6.1,Sacramento State
+-6.2,Oregon State
+-6.2,Bryant
+-6.2,Miami (OH)
+-6.2,Manhattan
+-6.2,Quinnipiac
+-6.3,Charleston Southern
+-6.4,Florida Intl
+-6.4,UT San Antonio
+-6.5,Drake
+-6.6,Milwaukee
+-6.8,Saint Louis
+-6.9,Alcorn State
+-6.9,Youngstown State
+-6.9,Florida Atlantic
+-7.0,Western Illinois
+-7.1,Detroit Mercy
+-7.1,The Citadel
+-7.1,Seattle
+-7.2,Dartmouth
+-7.2,Radford
+-7.2,Binghamton
+-7.3,South Florida
+-7.4,UC Riverside
+-7.5,Norfolk State
+-7.6,Delaware
+-7.6,Sacred Heart
+-7.8,Austin Peay
+-8.0,American
+-8.0,Marist
+-8.2,Prairie View A&M
+-8.3,Northwestern State
+-8.4,Stetson
+-8.5,Pepperdine
+-8.7,Hampton
+-8.7,Cal Poly
+-8.8,Abilene Christian
+-8.9,North Texas
+-9.1,Southern
+-9.3,UT Rio Grande Valley
+-9.4,UC Santa Barbara
+-9.5,Jackson State
+-9.5,Incarnate Word
+-9.5,Central Arkansas
+-9.6,Maryland-Eastern Shore
+-9.7,Nicholls
+-10.3,Grambling
+-10.3,Savannah State
+-10.4,Morgan State
+-10.4,VMI
+-10.4,SIU-Edwardsville
+-10.5,Southern Utah
+-10.8,Idaho State
+-10.9,Southern Miss
+-10.9,Lafayette
+-11.1,Hartford
+-11.1,Northern Arizona
+-11.2,Maine
+-11.4,Western Carolina
+-11.7,McNeese
+-11.9,Alabama State
+-12.1,Delaware State
+-12.8,Howard
+-13.3,Central Connecticut
+-13.6,Mississippi Valley State
+-13.8,Bethune-Cookman
+-14.1,South Carolina State
+-14.3,Chicago State
+-14.4,St. Francis (BKN)
+-14.9,Florida A&M
+-15.0,Longwood
+-15.5,Arkansas-Pine Bluff
+-16.9,Coppin State
+-17.3,Presbyterian
+-17.6,North Carolina A&T
+-19.2,Alabama A&M
