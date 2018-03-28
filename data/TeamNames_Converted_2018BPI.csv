@@ -1,0 +1,352 @@
+TeamID,TeamName,FirstD1Season,LastD1Season,BPI
+1101,Abilene Christian,2014,2018,-5.0
+1102,Air Force,1985,2018,-6.1
+1103,Akron,1985,2018,-5.3
+1104,Alabama,1985,2018,8.7
+1105,Alabama A&M,2000,2018,-19.1
+1106,Alabama State,1985,2018,-13.3
+1107,Albany,2000,2018,1.8
+1108,Alcorn State,1985,2018,-12.3
+1110,American,1985,2018,-10.1
+1111,Appalachian State,1985,2018,-1.3
+1112,Arizona,1985,2018,12.5
+1113,Arizona State,1985,2018,9.3
+1114,Little Rock,1985,2018,-7.6
+1115,Arkansas-Pine Bluff,1999,2018,-10.4
+1116,Arkansas,1985,2018,10.5
+1117,Arkansas State,1985,2018,-6.0
+1119,Army,1985,2018,-3.4
+1120,Auburn,1985,2018,12.9
+1122,Austin Peay,1985,2018,-1.9
+1123,Ball State,1985,2018,-0.1
+1124,Baylor,1985,2018,10.6
+1125,Belmont,2000,2018,6.5
+1126,Bethune-Cookman,1985,2018,-7.6
+1127,Binghamton,2002,2018,-6.1
+1129,Boise State,1985,2018,8.2
+1130,Boston College,1985,2018,6.4
+1131,Boston University,1985,2018,-3.9
+1132,Bowling Green,1985,2018,-4.7
+1133,Bradley,1985,2018,1.7
+1135,Brown,1985,2018,-5.2
+1136,Bryant,2009,2018,-13.3
+1137,Bucknell,1985,2018,6.2
+1138,Buffalo,1992,2018,6.5
+1139,Butler,1985,2018,11.7
+1140,BYU,1985,2018,6.7
+1141,Central Michigan,1985,2018,-0.1
+1142,Cal Poly,1995,2018,-9.8
+1143,California,1985,2018,-6.0
+1144,Campbell,1985,2018,-1.6
+1145,Canisius,1985,2018,2.6
+1146,Central Arkansas,2007,2018,-2.5
+1148,Central Connecticut,1987,2018,-8.1
+1149,Charleston Southern,1985,2018,-2.7
+1150,Charlotte,1985,2018,-8.7
+1151,Chattanooga,1985,2018,-6.9
+1152,Chicago State,1985,2018,-16.4
+1153,Cincinnati,1985,2018,18.6
+1154,The Citadel,1985,2018,-7.8
+1155,Clemson,1985,2018,13.1
+1156,Cleveland State,1985,2018,-7.6
+1157,Coastal Carolina,1987,2018,-2.0
+1158,Charleston,1992,2018,3.2
+1159,Colgate,1985,2018,-1.1
+1160,Colorado,1985,2018,1.4
+1161,Colorado State,1985,2018,-5.2
+1162,Columbia,1985,2018,-1.9
+1163,UConn,1985,2018,-0.1
+1164,Coppin State,1986,2018,-15.6
+1165,Cornell,1985,2018,-5.7
+1166,Creighton,1985,2018,12.3
+1167,CSU Bakersfield,2008,2018,-4.7
+1168,CS Fullerton,1985,2018,-0.6
+1169,CS Northridge,1991,2018,-11.1
+1170,Sacramento State,1992,2018,-7.9
+1171,Dartmouth,1985,2018,-6.1
+1172,Davidson,1985,2018,10.9
+1173,Dayton,1985,2018,0.2
+1174,Delaware,1985,2018,-5.6
+1175,Delaware State,1985,2018,-17.9
+1176,Denver,1999,2018,-3.6
+1177,DePaul,1985,2018,3.5
+1178,Detroit Mercy,1985,2018,-8.4
+1179,Drake,1985,2018,-0.3
+1180,Drexel,1985,2018,-4.9
+1181,Duke,1985,2018,19.6
+1182,Duquesne,1985,2018,-1.0
+1183,Eastern Illinois,1985,2018,-4.2
+1184,Eastern Kentucky,1985,2018,-7.1
+1185,Eastern Michigan,1985,2018,-0.0
+1186,Eastern Washington,1985,2018,0.7
+1187,East Carolina,1985,2018,-8.3
+1188,SIU-Edwardsville,2009,2018,-9.0
+1189,Elon,2000,2018,-3.8
+1190,East Tennessee State,1985,2018,5.9
+1191,Evansville,1985,2018,0.1
+1192,Fairleigh Dickinson,1985,2018,-4.9
+1193,Fairfield,1985,2018,-2.4
+1194,Florida Atlantic,1994,2018,-4.2
+1195,Florida Gulf Coast,2008,2018,3.5
+1196,Florida,1985,2018,11.8
+1197,Florida A&M,1985,2018,-13.3
+1198,Florida Intl,1988,2018,-5.8
+1199,Florida State,1985,2018,10.3
+1200,Fordham,1985,2018,-6.9
+1201,Fresno State,1985,2018,6.2
+1202,Furman,1985,2018,6.9
+1203,George Washington,1985,2018,-1.9
+1204,Georgia Southern,1985,2018,2.4
+1205,Gardner-Webb,2003,2018,-4.2
+1206,George Mason,1985,2018,-2.8
+1207,Georgetown,1985,2018,3.9
+1208,Georgia,1985,2018,6.7
+1209,Georgia State,1985,2018,4.7
+1210,Georgia Tech,1985,2018,2.6
+1211,Gonzaga,1985,2018,16.0
+1212,Grambling,1985,2018,-8.2
+1213,Grand Canyon,2014,2018,3.6
+1214,Hampton,1996,2018,-5.1
+1216,Hartford,1985,2018,-3.4
+1217,Harvard,1985,2018,1.5
+1218,Hawai'i,1985,2018,-3.4
+1219,High Point,2000,2018,-2.0
+1220,Hofstra,1985,2018,1.4
+1221,Holy Cross,1985,2018,-5.8
+1222,Houston,1985,2018,13.4
+1223,Houston Baptist,1985,2018,-10.1
+1224,Howard,1985,2018,-11.9
+1225,Idaho,1985,2018,1.1
+1226,Idaho State,1985,2018,-5.9
+1227,Chicago State,1985,2018,-16.4
+1228,Illinois,1985,2018,4.3
+1229,Illinois State,1985,2018,0.4
+1230,Incarnate Word,2014,2018,-11.7
+1231,Indiana,1985,2018,6.5
+1232,Indiana State,1985,2018,-0.7
+1233,Iona,1985,2018,3.3
+1234,Iowa,1985,2018,5.8
+1235,Iowa State,1985,2018,4.5
+1236,Fort Wayne,2003,2018,0.2
+1237,IUPUI,1999,2018,-6.7
+1238,Jackson State,1985,2018,-12.1
+1239,Jacksonville,1985,2018,-9.2
+1240,Jacksonville State,1996,2018,2.2
+1241,James Madison,1985,2018,-3.6
+1242,Kansas,1985,2018,16.3
+1243,Kansas State,1985,2018,9.3
+1244,Kennesaw State,2006,2018,-8.2
+1245,Kent State,1985,2018,-2.4
+1246,Kentucky,1985,2018,12.6
+1247,La Salle,1985,2018,1.3
+1248,Lafayette,1985,2018,-6.4
+1249,Lamar,1985,2018,-1.3
+1250,Lehigh,1985,2018,-3.2
+1251,Liberty,1989,2018,2.7
+1252,Lipscomb,2003,2018,-0.3
+1253,Long Beach State,1985,2018,-3.4
+1254,LIU Brooklyn,1985,2018,-4.4
+1255,Longwood,2005,2018,-13.5
+1256,Louisiana Tech,1985,2018,1.6
+1257,Louisville,1985,2018,10.9
+1258,Loyola Marymount,1985,2018,-4.3
+1259,Loyola (MD),1985,2018,-7.5
+1260,Loyola (Chi),1985,2018,8.9
+1261,LSU,1985,2018,7.6
+1262,UMass Lowell,2014,2018,-6.6
+1263,Maine,1985,2018,-10.3
+1264,Manhattan,1985,2018,-2.8
+1265,Marist,1985,2018,-9.7
+1266,Marquette,1985,2018,9.0
+1267,Marshall,1985,2018,2.6
+1268,Maryland,1985,2018,10.0
+1269,Massachusetts,1985,2018,-1.7
+1270,McNeese,1985,2018,-7.7
+1271,Maryland-Eastern Shore,1985,2018,-19.5
+1272,Memphis,1985,2018,0.6
+1273,Mercer,1985,2018,3.2
+1274,Miami,1986,2018,10.8
+1275,Miami (OH),1985,2018,-1.4
+1276,Michigan,1985,2018,14.6
+1277,Michigan State,1985,2018,17.9
+1278,Minnesota,1985,2018,3.7
+1279,Ole Miss,1985,2018,3.8
+1280,Mississippi State,1985,2018,7.1
+1281,Missouri,1985,2018,9.4
+1282,UMKC,1990,2018,-8.1
+1283,Missouri State,1985,2018,2.9
+1284,Monmouth,1985,2018,-0.0
+1285,Montana,1985,2018,3.8
+1286,Montana State,1985,2018,-6.4
+1287,Morehead State,1985,2018,-7.0
+1288,Morgan State,1985,2018,-9.3
+1290,Mississippi Valley State,1985,2018,-16.5
+1291,Mt. St. Mary's,1989,2018,-4.5
+1292,Middle Tennessee,1985,2018,9.7
+1293,Murray State,1985,2018,7.8
+1294,Northern Colorado,2005,2018,2.4
+1295,North Dakota State,2006,2018,0.0
+1296,Northern Illinois,1985,2018,-5.4
+1297,Northern Kentucky,2013,2018,6.7
+1298,Navy,1985,2018,-2.0
+1299,North Carolina A&T,1985,2018,-7.8
+1300,North Carolina Central,2008,2018,-6.0
+1301,NC State,1985,2018,9.4
+1303,Omaha,2012,2018,-5.9
+1304,Nebraska,1985,2018,7.6
+1305,Nevada,1985,2018,11.0
+1306,New Hampshire,1985,2018,-3.8
+1307,New Mexico,1985,2018,3.7
+1308,New Mexico State,1985,2018,7.2
+1309,New Orleans,1985,2018,-5.9
+1310,Niagara,1985,2018,-2.3
+1311,Nicholls,1985,2018,-0.6
+1312,NJIT,2007,2018,-4.1
+1313,Norfolk State,1998,2018,-8.6
+1314,North Carolina,1985,2018,16.7
+1315,North Dakota,2009,2018,-6.2
+1316,North Florida,2006,2018,-8.1
+1317,North Texas,1985,2018,-2.1
+1318,Northeastern,1985,2018,5.0
+1319,Northern Arizona,1985,2018,-13.9
+1320,Northern Iowa,1985,2018,2.1
+1321,Northwestern,1985,2018,6.6
+1322,Northwestern State,1985,2018,-16.3
+1323,Notre Dame,1985,2018,10.7
+1324,Oakland,2000,2018,0.8
+1325,Ohio,1985,2018,-2.0
+1326,Ohio State,1985,2018,13.9
+1328,Oklahoma,1985,2018,9.6
+1329,Oklahoma State,1985,2018,8.2
+1330,Old Dominion,1985,2018,7.9
+1331,Oral Roberts,1985,2018,-6.5
+1332,Oregon,1985,2018,6.9
+1333,Oregon State,1985,2018,3.3
+1334,Pacific,1985,2018,-1.0
+1335,Pennsylvania,1985,2018,4.2
+1336,Penn State,1985,2018,11.5
+1337,Pepperdine,1985,2018,-6.6
+1338,Pittsburgh,1985,2018,-4.8
+1339,Portland,1985,2018,-6.3
+1340,Portland St,1999,2018,1.0
+1341,Prairie View A&M,1985,2018,-5.9
+1342,Presbyterian,2008,2018,-10.2
+1343,Princeton,1985,2018,-0.2
+1344,Providence,1985,2018,7.4
+1345,Purdue,1985,2018,19.3
+1346,Quinnipiac,1999,2018,-6.9
+1347,Radford,1985,2018,0.5
+1348,Rhode Island,1985,2018,11.0
+1349,Rice,1985,2018,-8.8
+1350,Richmond,1985,2018,-0.5
+1351,Rider,1985,2018,1.7
+1352,Robert Morris,1985,2018,-4.1
+1353,Rutgers,1985,2018,2.4
+1354,South Carolina State,1985,2018,-14.5
+1355,South Dakota State,2006,2018,5.9
+1356,Southern Illinois,1985,2018,0.5
+1357,Sacred Heart,2000,2018,-8.0
+1358,Sam Houston State,1987,2018,-3.4
+1359,Samford,1985,2018,-6.4
+1360,San Diego,1985,2018,2.1
+1361,San Diego State,1985,2018,8.8
+1362,San Francisco,1986,2018,0.1
+1363,San Jose State,1985,2018,-8.3
+1364,UC Santa Barbara,1985,2018,1.1
+1365,Santa Clara,1985,2018,-7.2
+1366,Savannah State,2003,2018,-8.4
+1367,South Carolina Upstate,2008,2018,-12.9
+1368,SE Louisiana,1985,2018,-3.0
+1369,Southeast Missouri State,1992,2018,-6.3
+1370,Seattle,2009,2018,-2.1
+1371,Seton Hall,1985,2018,11.5
+1372,Stephen F. Austin,1987,2018,3.4
+1373,Siena,1985,2018,-7.5
+1374,SMU,1985,2018,7.0
+1375,South Alabama,1985,2018,-2.2
+1376,South Carolina,1985,2018,5.6
+1377,South Dakota,2009,2018,7.5
+1378,South Florida,1985,2018,-7.0
+1379,Southern Miss,1985,2018,-4.5
+1380,Southern,1985,2018,-9.0
+1381,Southern Utah,1989,2018,-7.5
+1382,St. Bonaventure,1985,2018,8.3
+1383,St. Francis (BKN),1985,2018,-7.7
+1384,St. Francis (PA),1985,2018,-1.7
+1385,St. John's,1985,2018,6.2
+1386,Saint Joseph's,1985,2018,2.8
+1387,Saint Louis,1985,2018,1.4
+1388,Saint Mary's,1985,2018,12.2
+1389,Saint Peter's,1985,2018,-2.5
+1390,Stanford,1985,2018,4.4
+1391,Stetson,1985,2018,-9.0
+1392,Stony Brook,2000,2018,-2.5
+1393,Syracuse,1985,2018,8.7
+1394,Texas A&M-CC,2003,2018,-8.7
+1395,TCU,1985,2018,12.5
+1396,Temple,1985,2018,6.0
+1397,Tennessee,1985,2018,14.0
+1398,Tennessee State,1985,2018,-3.2
+1399,Tennessee Tech,1985,2018,-2.5
+1400,Texas,1985,2018,10.1
+1401,Texas A&M,1985,2018,10.4
+1402,Texas State,1985,2018,-2.8
+1403,Texas Tech,1985,2018,14.9
+1404,Tenn-Martin,1993,2018,-7.6
+1405,Toledo,1985,2018,2.8
+1406,Towson,1985,2018,2.1
+1407,Troy,1994,2018,0.1
+1408,Tulane,1985,2018,0.1
+1409,Tulsa,1985,2018,3.6
+1410,UT Rio Grande Valley,1985,2018,-6.2
+1411,Texas Southern,1985,2018,-4.0
+1412,UAB,1985,2018,3.5
+1413,UC Davis,2005,2018,0.6
+1414,UC Irvine,1985,2018,1.2
+1415,UC Riverside,2002,2018,-6.8
+1416,UCF,1985,2018,4.0
+1417,UCLA,1985,2018,8.2
+1418,Louisiana,1985,2018,8.7
+1419,UL Monroe,1985,2018,-2.3
+1420,UMBC,1987,2018,-0.2
+1421,UNC Asheville,1987,2018,-0.1
+1422,UNC Greensboro,1992,2018,5.9
+1423,UNC Wilmington,1985,2018,-4.7
+1424,UNLV,1985,2018,4.6
+1425,USC,1985,2018,9.2
+1426,UT Arlington,1985,2018,2.8
+1427,UT San Antonio,1985,2018,-1.2
+1428,Utah,1985,2018,6.3
+1429,Utah State,1985,2018,1.0
+1430,Utah Valley,2005,2018,5.7
+1431,UTEP,1985,2018,-5.0
+1433,VCU,1985,2018,2.6
+1434,Valparaiso,1985,2018,1.1
+1435,Vanderbilt,1985,2018,5.8
+1436,Vermont,1985,2018,7.4
+1437,Villanova,1985,2018,21.6
+1438,Virginia,1985,2018,21.0
+1439,Virginia Tech,1985,2018,11.3
+1440,VMI,1985,2018,-11.0
+1441,Western Carolina,1985,2018,-7.4
+1442,Western Illinois,1985,2018,-6.1
+1443,Western Kentucky,1985,2018,8.4
+1444,Western Michigan,1985,2018,-1.7
+1447,Wagner,1985,2018,-0.7
+1448,Wake Forest,1985,2018,5.2
+1449,Washington,1985,2018,3.2
+1450,Washington State,1985,2018,-3.0
+1451,Weber State,1985,2018,1.2
+1452,West Virginia,1985,2018,15.4
+1453,Green Bay,1985,2018,-4.7
+1454,Milwaukee,1991,2018,-3.7
+1455,Wichita State,1985,2018,14.7
+1456,William & Mary,1985,2018,1.0
+1457,Winthrop,1987,2018,1.7
+1458,Wisconsin,1985,2018,7.5
+1459,Wofford,1996,2018,1.6
+1460,Wright State,1988,2018,1.9
+1461,Wyoming,1985,2018,1.3
+1462,Xavier,1985,2018,14.9
+1463,Yale,1985,2018,0.2
+1464,Youngstown State,1985,2018,-9.0
